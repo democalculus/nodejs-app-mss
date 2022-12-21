@@ -1,0 +1,7 @@
+organization=eagunu-mss-demo
+projectKey=NodeJsEghosaTechNologies
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.35072
+dashboardUrl=https://sonarcloud.io/dashboard?id=NodeJsEghosaTechNologies
+ceTaskId=AYTV4OJzbtRafdmq8Owm
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYTV4OJzbtRafdmq8Owm
